@@ -1583,3 +1583,10 @@ audio {
     		-webkit-transform: scale(0.9);
     	}
     }*/
+
+    /*controlling tablet width*/
+    /*@media only screen and (max-width: 720px){
+    	.lampu {
+    		-webkit-transform: scale(0.9);
+    	}
+    }*/
